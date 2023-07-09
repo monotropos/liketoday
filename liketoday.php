@@ -1,11 +1,14 @@
 <?php
 /*
 Plugin Name: LikeToday
-Version: 0.0.1
+Version: 0.1
 Plugin URI: https://github.com/monotropos/liketoday
 Description: Show posts (titles and URLs) posted some years ago on today's date.
 Author: Apostolos P. Tsompanopoulos
 Author URI: https://www.aptlogs.com/
+Requires at least: 4.7
+Requires PHP: 7.0
+Tested up to: 6.2
 */
 
 /* Version check */

@@ -37,5 +37,5 @@ It's the initial release, none yet.
 
 ## Changelog
 
-### 0.0.1
+### 0.1
 * Initial release
