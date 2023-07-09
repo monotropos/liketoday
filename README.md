@@ -17,7 +17,7 @@ No huge widget with hundreds of options, just one.
 ### Languages
 
 Just English for the time being.
-Admins can define widget's title to whatever they like (every supported language) through the Widgets setup screen, as seen in screenshot-1.png
+Admins can define widget's title to whatever they like (every supported language) through the Widgets setup screen, as seen in assets/screenshot-1.png
 
 
 ## Installation
