@@ -1,6 +1,6 @@
 === LikeToday ===
 Contributors: monotropos
-Donate link: 
+Donate link: https://www.buymeacoffee.com/aptlogs
 Tags: post list, anniversary
 Requires at least: 4.7
 Tested up to: 6.2.2
