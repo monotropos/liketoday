@@ -44,13 +44,13 @@ class liketoday_widget extends WP_Widget {
 
 		$tmon = date("m");
 		$tday = date("d");
-		$args = array(
+		$argsQ = array(
 			'monthnum' => $tmon,
 			'day' => $tday,
 			'orderby' => 'rand',
 			'posts_per_page' => '3',
 		);
-		$query = new WP_Query( $args );
+		$query = new WP_Query( $argsQ );
 
 		// The Loop.
 		if ( $query->have_posts() ) {
